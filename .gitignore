@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+acc.csv.gz
+acc_clean.csv.gz
+*.gz
