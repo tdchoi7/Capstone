@@ -114,4 +114,6 @@ dmypy.json
 .pyre/
 acc.csv.gz
 acc_clean.csv.gz
+*.csv
+*.csv.gz
 *.gz
