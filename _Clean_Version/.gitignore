@@ -117,3 +117,5 @@ acc_clean.csv.gz
 *.csv
 *.csv.gz
 *.gz
+
+.DS_Store
